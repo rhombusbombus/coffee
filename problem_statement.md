@@ -1,14 +1,14 @@
 ### Problem Statement:
 
-A platform designed for a customer focused and controlled coffee subscription for 1951 that eases customer onboarding and customer retention.
+An app to help the Friends keep track of community members met at local street-corner library events and general notes that volunteers want to record, to help adapt strategies and outreach to get a library back in our community.
     
 ### Background Information:
     
-Currently, 1951 Coffee Company sells bags of coffee online through our Squarespace Portal.  We offer subscriptions, but they are rigid and do not give the customer any control over the subscription once it has started. Any adjustments that need to be made beyond pausing a subscription require canceling the subscription and starting a new one.  Right now we manage a very small number of subscriptions (8 customers), but want to grow this to over 100 customers. We cannot do that if 1951 Coffee staff have to manage the subscription in the background and any changes require cancelation.
+The Friends of Hoover Durant Public Library (“The Friends”) exists to bring a public library branch back to the Hoover Durant, McClymonds and Clawson neighborhoods in West Oakland, California. One key program area for The Friends are Street Corner Libraries (SCLs), which are when a volunteer team brings books and resources to distribute for free at local community events. Although we have a pen and paper system to keep track of key information we gather there, we are looking for ways to better collect and report our data from these events.
     
 ### Goals:
-    ⭐ Easily onboard customers to a 1951 Coffee Subscription that is built to their liking
-    
-    ⭐ Enable customers to manage their own subscriptions from coffee choice, frequency, and duration, to pausing and canceling.
-    
-    ⭐ All subscriptions to be purchased alongside one-time purchase items.
+    ⭐ Can be used by both volunteers and the community members in just a few minutes.
+
+    ⭐ Can hold different types of data (e.g. contact information, images, notes)
+
+    ⭐ Can use this technology relying on only mobile networks and devices.
