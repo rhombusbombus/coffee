@@ -1,10 +1,6 @@
-## Prompt:
 
-Give suggestions on frameworks and outline a detailed implementation process given the fact that the front-end design will be developed on Figma and will need an easy/fast way to deploy the design. This will be an ios/android mobile app and data will be stored locally on the user's phone so that they do not need internet access for this. Give a plan on how to integrate a rough version of this to present in 6 hours. Also possible implement a feature that allows users to share this note with others in the community by QR-code. 
 
----
-
-## Chat GPT's response:
+## Recommended timeline:
 
 Given the context and goals for The Friends' Street Corner Libraries (SCLs) and the specific requirements for a mobile app that works offline and can share data via QR code, we'll need to choose a development approach that allows for rapid prototyping and easy deployment. Considering the 6-hour timeframe for a rough version, a combination of a cross-platform framework for the app development and local storage for data persistence will be essential. Here's a suggested plan:
 
